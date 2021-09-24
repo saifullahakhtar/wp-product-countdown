@@ -1,11 +1,11 @@
 <?php
 /*
- * Plugin Name: WP Countdown Timer By Saif
- * Plugin URI:  https://daskillset.com
+ * Plugin Name: WP Product Countdown
+ * Plugin URI:  https://itssaif.dev
  * Description: This plugin is developed to set the countdown on product purchase to get the next day delivery alert
  * Version:     1.0
  * Author:      SaifUllah Akhtar
- * Author URI:  https://itssaif.com
+ * Author URI:  https://itssaif.dev
  * License:     GPL-2.0+
  * License URI: https://github.com/saifullahakhtar
 */
